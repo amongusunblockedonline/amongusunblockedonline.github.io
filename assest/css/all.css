@@ -599,3 +599,19 @@ button {
     transform: translateY(-1px) scale(1.02);
     box-shadow: 0 4px 15px rgba(234, 232, 102, 0.4);
 }
+
+footer {
+    padding: 1rem 0;
+    background-color: #000000;
+    border-top: 1px solid #333;
+}
+ .text-center {
+    text-align: center;
+}
+.link {
+    color: #fff;
+    padding: 8px 0;
+    display: inline-block;
+    margin: 0 10px;
+    font-size: 14px;
+}
