@@ -615,3 +615,12 @@ footer {
     margin: 0 10px;
     font-size: 14px;
 }
+.ad-desktop-only {
+  display: block;
+}
+
+@media screen and (max-width: 768px) {
+  .ad-desktop-only {
+    display: none !important;
+  }
+}
